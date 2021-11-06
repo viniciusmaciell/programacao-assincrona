@@ -1,0 +1,19 @@
+#tabela-veiculos {
+  width: 100%;
+  border-style: solid;
+}
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(128, 128, 128, 0.61);
+}
+
+li {
+  line-height: 2rem;
+  text-align: center;
+}
+
+#conteudo {
+  position: relative;
+  top: 3rem;
+}
